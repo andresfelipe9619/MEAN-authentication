@@ -1,0 +1,8 @@
+1.go to mongo folder installation
+2.cmd type mongod
+3.another cmd and type mongo
+4.in mongo shell:
+type show dbs
+use dbname
+show collections
+db.collectionname.find().pretty()
